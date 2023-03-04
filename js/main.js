@@ -110,7 +110,7 @@ window.onscroll = ()=>{
 
 
 ScrollReveal({ 
-    reset: true,
+// reset: true,
     distance:'300px',
     duration:2000,
     delay:200
@@ -131,5 +131,5 @@ const typed = new Typed('.multiple-text',{
     typeSpeed:60,
     backSpeed:50,
     backDelay:3000,
-    // loop:true
+     loop:true
 })
