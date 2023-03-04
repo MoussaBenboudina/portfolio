@@ -127,7 +127,7 @@ ScrollReveal().reveal('.about .desc , .contact form' , { origin:'right'});
 // typed.js 
 
 const typed = new Typed('.multiple-text',{
-    strings:['web Design','Frontend Develope '],
+    strings:['web Design','Frontend Developer '],
     typeSpeed:60,
     backSpeed:50,
     backDelay:3000,
